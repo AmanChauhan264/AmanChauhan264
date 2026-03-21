@@ -1,53 +1,62 @@
 <h1 align="center">Hi 👋, I'm Aman Chauhan</h1>
-<h3 align="center">🚀 Aspiring Software Engineer | Full Stack Developer | CSE Student</h3>
+<h3 align="center">🚀 Aspiring Software Engineer | Full Stack Developer</h3>
 
 ---
 
 ### 👨‍💻 About Me
-- 🎓 CSE Student passionate about coding and real-world projects  
-- 💡 Focused on **DSA, Full Stack Development & scalable systems**  
-- 🚀 Goal: High-paying tech role (SDE)  
-- 📚 Always learning & improving every day  
+- 🎓 CSE Student focused on mastering programming and problem-solving  
+- 💻 Completed Full Stack Web Development and built real-world projects  
+- 🧠 Working on DSA, Backend systems & Blockchain  
+ 
+---
+
+### 🛠️ Tech Stack
+
+**💻 Languages:**  
+C • C++ • Java  
+
+**🌐 Frontend:**  
+HTML • CSS • JavaScript • Bootstrap • Tailwind • React  
+
+**⚙️ Backend:**  
+Node.js • Express.js • REST APIs  
+
+**🗄️ Database:**  
+MongoDB • MySQL  
+
+**🔧 Tools & Platforms:**  
+Git • GitHub • Linux • Postman  
+
+**🔐 Domains:**  
+Cyber Security • Blockchain • Prompt Engineering  
 
 ---
 
-### 🛠️ Skills & Tech Stack
+### 🚀 Featured Projects
 
-#### 💻 Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+🔹 **Laundry Management System (Full Stack)**  
+- Managed orders, customers & service tracking  
+- Built using HTML, CSS, JS + JSON Server  
+- Implemented CRUD operations & dynamic UI  
 
-#### 🌐 Web Development
-![HTML](https://img.shields.io/badge/HTML-ED8B00?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-264de4?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+🔹 **E-Commerce Web App**  
+- Responsive frontend with product listing & cart  
+- Focus on UI/UX and real-world layout design  
 
-#### 🎨 Frameworks & Styling
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563d7c?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+🔹 **Weather App**  
+- Fetches real-time weather data using API  
+- Displays temperature, humidity & conditions  
 
-#### ⚙️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-#### 🗄️ Database
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-
-#### 🔐 Domains
-- Cyber Security  
-- Prompt Engineering  
+🔹 **Multiple Frontend Projects**  
+- Calculator, Todo List, Grid layouts  
+- Practiced DOM manipulation & responsive design  
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
+### 🎯 Goal
+💻 To become a top Software Engineer and build scalable systems  
 
 ---
 
-### 🔥 Quote
-> Code. Build. Learn. Repeat. 🚀
+### ⚡ Motto
+> No shortcuts. Just code. 🚀
