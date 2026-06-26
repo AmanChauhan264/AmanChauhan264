@@ -124,13 +124,11 @@ Git • GitHub • Linux • VS Code • Postman
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
-> Enable with GitHub Actions using Platane/snk.
-
-![Snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
-
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AmanChauhan264/AmanChauhan264/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+</p>
 
 # 💬 Dev Quote
 
