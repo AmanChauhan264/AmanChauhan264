@@ -106,7 +106,6 @@ Git • GitHub • Linux • VS Code • Postman
 
 - LeetCode
 - GeeksforGeeks
-- HackerRank
 - CodeChef
 - Codolio
 
@@ -131,8 +130,8 @@ Git • GitHub • Linux • VS Code • Postman
 # 🤝 Connect With Me
 
 - GitHub: **AmanChauhan264**
-- LinkedIn: *(add your LinkedIn URL here)*
-- Email: *(add your email here)*
+- LinkedIn: *(https://www.linkedin.com/in/aman-kumar-chauhan/)*
+- Email: *neerajchauhanch112@gmail.com*
 
 ---
 
