@@ -69,7 +69,18 @@ Git • GitHub • Linux • VS Code • Postman
 
 ---
 
+## 💼 Experience
+
+### Frontend Developer Intern | GRRAS Solutions Pvt. Ltd.
+📅 May 2026 – July 2026
+
+- Worked as a Frontend Developer Intern with React JS.
+- Built responsive user interfaces.
+- Strengthened skills in React, JavaScript, HTML, CSS and Git.
+
 # 🚀 Featured Projects
+
+---
 
 | Project | Description |
 |---------|-------------|
@@ -83,12 +94,14 @@ Git • GitHub • Linux • VS Code • Postman
 
 # 📜 Certifications
 
-- 🏅 Udemy – Complete Web Development
+- 🏅 GRRAS Solutions – Linux, Web Development, GitHub, Networking & Prompt Engineering Training (2026) :contentReference[oaicite:0]{index=0}
+- 💼 GRRAS Solutions – Frontend Developer (React JS) Internship (May 2026 – Jul 2026) :contentReference[oaicite:1]{index=1}
+- 🏅 Udemy – Complete Web Development Bootcamp
 - 🏅 NPTEL – Programming in Java
-- 🏅 NPTEL – DBMS
+- 🏅 NPTEL – Database Management Systems (DBMS)
 - 🏅 NPTEL – Programming in C
-- 🏅 NPTEL – Object Oriented Programming
-- 🏅 GeeksforGeeks – C with Data Structures
+- 🏅 NPTEL – Fundamentals of Object-Oriented Programming
+- 🏅 GeeksforGeeks – C Programming with Data Structures
 
 ---
 
