@@ -94,7 +94,7 @@ Git • GitHub • Linux • VS Code • Postman
 
 # 📜 Certifications
 
-- 🏅 GRRAS Solutions – Linux, Web Development, GitHub, Networking & Prompt Engineering Training (2026) :contentReference[oaicite:0]{index=0}
+- 🏅 GRRAS Solutions – Linux, Web Development, GitHub, Networking & Prompt Engineering Training (2026)
 - 💼 GRRAS Solutions – Frontend Developer (React JS) Internship (May 2026 – Jul 2026)
 - 🏅 Udemy – Complete Web Development Bootcamp
 - 🏅 NPTEL – Programming in Java
